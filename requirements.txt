@@ -11,3 +11,7 @@ scipy
 tb-nightly
 tqdm
 yapf
+onnx
+onnxoptimizer
+onnx-simplifier
+onnxruntime
